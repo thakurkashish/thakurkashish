@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Kashish 👋
 
-<!--
-**thakurkashish/thakurkashish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech (Honours) ECE student at NIT Srinagar
 
-Here are some ideas to get you started:
+I'm interested in electronics, circuit analysis, simulation, experimental work, and engineering projects. I enjoy learning concepts deeply and applying them through practical hardware, simulation, and measurement-based projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Projects
+
+### Regulated DC Power Supply
+Designed and tested a regulated DC power supply using a step-down transformer, rectifier, filter capacitors, and a voltage regulator.
+
+### MOSFET Characterization Using LTspice
+Simulation and analysis of the DC and switching characteristics of a T2N7002AK NMOS MOSFET using LTspice.
+
+## 🛠️ Tools & Programming
+
+- C
+- Python — Basic
+- Scilab
+- LTspice
+- OriginPro
+- GPIB
+- Git & GitHub
+
+## 🌱 Areas of Interest
+
+- Analog & Digital Electronics
+- Semiconductor Devices
+- Circuit Analysis
+- Electronics Laboratory & Measurement
+- Engineering Research
+
+---
+
+⭐ Always learning, building, and exploring.
