@@ -1,6 +1,6 @@
 # Hi, I'm Kashish 👋
 
-🎓 B.Tech (Honours) ECE student at NIT Srinagar
+🎓 B.Tech ECE student at NIT Srinagar
 
 I'm interested in electronics, circuit analysis, simulation, experimental work, and engineering projects. I enjoy learning concepts deeply and applying them through practical hardware, simulation, and measurement-based projects.
 
